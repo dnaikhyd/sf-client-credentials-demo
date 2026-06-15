@@ -15,7 +15,7 @@ import java.util.*;
  */
 public class SetupWizard {
     
-    private static final String ENV_FILE = ".env";
+    private static final String ENV_FILE = "../.env";
     private static final Scanner scanner = new Scanner(System.in);
     private static Map<String, String> config = new HashMap<>();
     private static boolean debugMode = false;

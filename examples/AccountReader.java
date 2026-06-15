@@ -17,7 +17,7 @@ import java.util.Map;
  */
 public class AccountReader {
     
-    private static final String ENV_FILE = ".env";
+    private static final String ENV_FILE = "../.env";
     private static String accessToken;
     private static String instanceUrl;
     private static boolean debugMode = false;

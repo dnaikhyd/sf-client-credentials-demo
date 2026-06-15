@@ -19,7 +19,7 @@ import java.util.Map;
  */
 public class SimpleConnectionTest {
     
-    private static final String ENV_FILE = ".env";
+    private static final String ENV_FILE = "../.env";
     private static boolean debugMode = false;
     
     public static void main(String[] args) {
