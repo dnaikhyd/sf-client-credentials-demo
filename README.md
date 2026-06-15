@@ -1,3 +1,7 @@
+[![GitHub stars](https://img.shields.io/github/stars/dnaikhyd/sf-client-credentials-demo?style=social)](https://github.com/dnaikhyd/sf-client-credentials-demo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/dnaikhyd/sf-client-credentials-demo?style=social)](https://github.com/dnaikhyd/sf-client-credentials-demo/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/dnaikhyd/sf-client-credentials-demo)](https://github.com/dnaikhyd/sf-client-credentials-demo/issues)
+
 # Salesforce OAuth 2.0 Client Credentials Playground
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
